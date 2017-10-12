@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="c_Id" type="id" />
+    <item name="c_Nombre" type="id" />
+    <item name="c_correo" type="id" />
+</resources>
